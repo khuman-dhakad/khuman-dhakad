@@ -70,3 +70,30 @@ Simple websites built using **HTML & CSS** focused on creative design and layout
 Experimenting with **AI-generated creative content and digital storytelling**.
 
 ---
+
+## 📚 Currently Learning
+
+* Advanced **Java Programming**
+* **Data Structures & Algorithms**
+* **Problem-solving for coding interviews**
+* **Software development best practices**
+
+---
+
+## 🎯 Career Goals
+
+* Become a **skilled Software Developer**
+* Build **real-world projects**
+* Improve **problem-solving & algorithmic thinking**
+* Secure a **software engineering role in a reputed MNC**
+
+---
+
+## 📈 Learning Philosophy
+
+✔ Learn fundamentals deeply
+✔ Build projects while learning
+✔ Practice coding consistently
+✔ Keep improving every day
+
+---
