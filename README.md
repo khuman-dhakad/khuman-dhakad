@@ -25,6 +25,7 @@ I enjoy **building projects, solving coding problems, and exploring new technolo
 * Data Structures & Algorithms
 * Problem Solving
 * Basic Object-Oriented Programming
+* SQL
 
 ### Web Development
 
