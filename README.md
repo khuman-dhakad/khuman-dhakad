@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👨‍💻 About Me<br>I’m an MCA student and aspiring software developer with a strong interest in Java, Data Structures & Algorithms, and Web Development. I enjoy building practical projects, solving programming problems, and continuously improving my development skills.<br>Currently, I’m strengthening my skills in Java, C, JavaScript, HTML, CSS, React, Node.js, SQL, Git, and GitHub while preparing for software development opportunities and MNC placements.<br>🚀 My focus: Building real-world projects, improving problem-solving skills, and becoming a strong software developer.
 
 
